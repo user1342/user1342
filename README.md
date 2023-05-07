@@ -1,6 +1,6 @@
 > 📱 **Android Reverse Engineering** | 
 > Checkout some of my tools for interacting with, emulating, testing, deobfuscating, and analysing Android APKs. 
-> > ➡️ **[AutoDroid](https://github.com/user1342/AutoDroid))** - A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity.
+> > ➡️ **[AutoDroid](https://github.com/user1342/AutoDroid)** - A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity.
 >  
 > > 👝 **[PocketSmali](https://github.com/user1342/PocketSmali)** - A modular and extendable Python tool for emulating simple SMALI instructions.
 >  
