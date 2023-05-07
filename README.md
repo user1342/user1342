@@ -9,7 +9,7 @@
 > > **🫣 [Obfu[DE]Scate](https://github.com/user1342/Obfu-DE-Scate)** - Obfu[DE]scate is a de-obfuscation tool for Android APKs that uses fuzzy comparison logic to identify similarities between functions.
 >  
 > > **✅ [DIS{integrity}](https://github.com/user1342/DISintegrity)** - A tool for analysing Android APKs and extracting root, integrity, and tamper detection checks.
-> > 
+> 
 > > **☢️ [DroidDetective](https://github.com/user1342/DroidDetective)** - A machine learning malware analysis framework for Android apps.
 
 <br>
