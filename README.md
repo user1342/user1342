@@ -12,7 +12,7 @@
 
 <br>
 
-> 🔎 **MachineLearning and anti-Extremism tools and research** | 
+> 🔎 **Machine Learning and anti-Extremism tools and research** | 
 > Checkout some of my tools and PhD research into machine learning, extremism, and anti-misinformation.
 > > 🕵️ **[Pinpoint](https://github.com/CartographerLabs/Pinpoint)** - Python tooling for the creation and use of a binary classification model for identifying far-right extremist text posts on the Parler social network.
 >  
