@@ -12,7 +12,7 @@
 > 
 > > **☢️ [DroidDetective](https://github.com/user1342/DroidDetective)** - A machine learning malware analysis framework for Android apps.
 > 
-> > **💾 [RUNIC](https://github.com/user1342/RUNIC) and [TAMPER](https://github.com/user1342/Tamper)** - Android Tamper, root, and integrity attestation/ detection demos.
+> > **💾 [RUNIC](https://github.com/user1342/RUNIC) and [TAMPER](https://github.com/user1342/Tamper)** - Android tamper, root, and integrity attestation/ detection demos.
 
 <br>
 
