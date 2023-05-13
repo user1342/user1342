@@ -11,6 +11,8 @@
 > > **✅ [DIS{integrity}](https://github.com/user1342/DISintegrity)** - A tool for analysing Android APKs and extracting root, integrity, and tamper detection checks.
 > 
 > > **☢️ [DroidDetective](https://github.com/user1342/DroidDetective)** - A machine learning malware analysis framework for Android apps.
+> 
+> > **💾 [RUNIC](https://github.com/user1342/RUNIC) and [TAMPER](https://github.com/user1342/Tamper)** - Android Tamper, root, and integrity attestation/ detection demos.
 
 <br>
 
