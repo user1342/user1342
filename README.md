@@ -1,3 +1,11 @@
+> 🛠️ **Binary Analysis Automation** | 
+> Checkout some of my tools for accelerating reverse engineering, vulnerability research, and binary analysis using automation and machine learning.
+> > 🥢 **[Tweezer](https://github.com/user1342/Tweezer)** - A binary analysis tool for identifying unknown function names, using a word-2-vec model.
+> 
+> > 📁 **[Just Another Differ](https://github.com/user1342/Just-Another-Differ)** -  A diffing tool for binary files when comparing obfuscated and changed binary names between versions.
+
+<br>
+
 > 📱 **Android Reverse Engineering** | 
 > Checkout some of my tools for interacting with, emulating, testing, deobfuscating, and analysing Android APKs. 
 > > ➡️ **[AutoDroid](https://github.com/user1342/AutoDroid)** - A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity.
