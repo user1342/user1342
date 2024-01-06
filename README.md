@@ -6,7 +6,7 @@
 
 <br>
 
-> 📱 **Android Reverse Engineering** | 
+> 📱 **[Android Reverse Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)** | 
 > Checkout some of my tools for interacting with, emulating, testing, deobfuscating, and analysing Android APKs. 
 > > ➡️ **[AutoDroid](https://github.com/user1342/AutoDroid)** - A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity.
 >  
