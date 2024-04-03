@@ -26,6 +26,8 @@
 
 > 🔎 **Machine Learning and anti-Extremism tools and research** | 
 > Checkout some of my tools and PhD research into machine learning, extremism, and anti-misinformation.
+> > 🐦 **[Canary](https://github.com/CartographerLabs/Canary)** - A Chrome extension that uses the Google Gemini LLM and looks out for and blocks extremist content!
+> 
 > > 🕵️ **[Pinpoint](https://github.com/CartographerLabs/Pinpoint)** - Python tooling for the creation and use of a binary classification model for identifying far-right extremist text posts on the Parler social network.
 >  
 > > 👤 **[User-Compare](https://github.com/CartographerLabs/User-Compare)** - A tool for comparing user profiles and returning a confidence score.
