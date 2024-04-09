@@ -1,5 +1,7 @@
 > 🛠️ **[Binary Analysis Automation](https://github.com/user1342/Awesome-Binary-Analysis-Automation)** | 
 > Checkout some of my tools for accelerating reverse engineering, vulnerability research, and binary analysis using automation and machine learning.
+> > 🧐 **[Monocle](https://github.com/user1342/Monocle) - Large Language Model For Binary Analysis Search.
+> 
 > > 🥢 **[Tweezer](https://github.com/user1342/Tweezer)** - A binary analysis tool for identifying unknown function names, using a word-2-vec model.
 > 
 > > 📁 **[Just Another Differ](https://github.com/user1342/Just-Another-Differ)** -  A diffing tool for binary files when comparing obfuscated and changed binary names between versions.
