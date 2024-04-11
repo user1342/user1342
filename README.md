@@ -4,6 +4,8 @@
 > 
 > > 🥢 **[Tweezer](https://github.com/user1342/Tweezer)** - A binary analysis tool for identifying unknown function names, using a word-2-vec model.
 > 
+> > 🐇 **[AutoCorpus](https://github.com/user1342/AutoCorpus)** - LLM backed tooling for automatically generating corpus files for fuzzing.
+> 
 > > 📁 **[Just Another Differ](https://github.com/user1342/Just-Another-Differ)** -  A diffing tool for binary files when comparing obfuscated and changed binary names between versions.
 
 <br>
