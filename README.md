@@ -1,10 +1,20 @@
+> 🤖 **Machine Learning Cyber Security** | 
+> Checkout some of my tools for assesing the secuirty and structure of machine learning models.
+> > ⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectivness an LLMs ability to hide and secure secrets.
+> 
+> > 🫂 **[conjecture](https://github.com/user1342/conjecture)** - Evaluating the likelihood of if data points were presengt in a LLM's training set
+
+<br>
+
 > 🛠️ **[Binary Analysis Automation](https://github.com/user1342/Awesome-Binary-Analysis-Automation)** | 
 > Checkout some of my tools for accelerating reverse engineering, vulnerability research, and binary analysis using automation and machine learning.
-> > 🧐 **[Monocle](https://github.com/user1342/Monocle)** - Large Language Model For Binary Analysis Search.
+> > 🧐 **[Monocle](https://www.youtube.com/watch?v=Ekag3HKjjY0)** - Large Language Model For Binary Analysis Search.
 > 
-> > 🥢 **[Tweezer](https://github.com/user1342/Tweezer)** - A binary analysis tool for identifying unknown function names, using a word-2-vec model.
+> > 🥢 **[Tweezer](https://www.youtube.com/watch?v=Ekag3HKjjY0)** - A binary analysis tool for identifying unknown function names, using a word-2-vec model.
 > 
 > > 🐇 **[AutoCorpus](https://github.com/user1342/AutoCorpus)** - LLM backed tooling for automatically generating corpus files for fuzzing.
+>
+> > 🔦 **[ThingFinder](https://github.com/user1342/ThingFinder)** - Designed to facilitate searching and analysing code, whether it's source code or compiled binary executables.
 > 
 > > 📁 **[Just Another Differ](https://github.com/user1342/Just-Another-Differ)** -  A diffing tool for binary files when comparing obfuscated and changed binary names between versions.
 
