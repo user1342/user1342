@@ -1,6 +1,6 @@
 > 🤖 **Machine Learning Cyber Security** | 
 > Checkout some of my tools for assesing the secuirty and structure of machine learning models.
-> > ⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectivness an LLMs ability to hide and secure secrets.
+> > ⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectivness of an LLMs ability to hide and secure secrets.
 > 
 > > 🫂 **[conjecture](https://github.com/user1342/conjecture)** - Evaluating the likelihood of data points existing in original LLM training sets
 
