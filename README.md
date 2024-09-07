@@ -2,7 +2,7 @@
 > Checkout some of my tools for assesing the secuirty and structure of machine learning models.
 > > ⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectivness an LLMs ability to hide and secure secrets.
 > 
-> > 🫂 **[conjecture](https://github.com/user1342/conjecture)** - Evaluating the likelihood of if data points were presengt in a LLM's training set
+> > 🫂 **[conjecture](https://github.com/user1342/conjecture)** - Evaluating the likelihood of data points existing in original LLM training sets
 
 <br>
 
