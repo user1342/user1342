@@ -3,6 +3,8 @@
 > > ⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectivness of an LLMs ability to hide and secure secrets.
 > 
 > > 🫂 **[conjecture](https://github.com/user1342/conjecture)** - Evaluating the likelihood of data points existing in original LLM training sets
+> 
+> > 🍅 **[conjecture](https://github.com/user1342/Tomato)** - LLM steganography with minimum-entropy coupling
 
 <br>
 
