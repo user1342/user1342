@@ -4,7 +4,7 @@
 > 
 > > 🫂 **[conjecture](https://github.com/user1342/conjecture)** - Evaluating the likelihood of data points existing in original LLM training sets
 > 
-> > 🍅 **[conjecture](https://github.com/user1342/Tomato)** - LLM steganography with minimum-entropy coupling
+> > 🍅 **[Tomato](https://github.com/user1342/Tomato)** - LLM steganography with minimum-entropy coupling
 
 <br>
 
