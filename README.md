@@ -1,4 +1,4 @@
-> 🤖 **Machine Learning Cyber Security** | 
+> 🤖 **[Machine Learning Cyber Security](https://github.com/user1342/Awesome-LLM-Red-Teaming)** | 
 > Checkout some of my tools for assesing the secuirty and structure of machine learning models.
 > > ⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectiveness of an LLMs ability to hide and secure secrets.
 > 
