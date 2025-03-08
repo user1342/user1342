@@ -1,8 +1,12 @@
 > 🤖 **[Machine Learning Cyber Security](https://github.com/user1342/Awesome-LLM-Red-Teaming)** | 
 > Checkout some of my tools for assesing the secuirty and structure of machine learning models.
-> > ⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectiveness of an LLMs ability to hide and secure secrets.
+> > 🏰 **[Folly](https://github.com/user1342/Folly)** - Open-source LLM Prompt-Injection and Jailbreaking Playground.
+> 
+> >⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectiveness of an LLMs ability to hide and secure secrets.
 > 
 > > 🫂 **[conjecture](https://github.com/user1342/conjecture)** - Evaluating the likelihood of data points existing in original LLM training sets
+> 
+> > 🖥️ **[Oversight](https://github.com/user1342/Oversight)** - Modular LLM Reverse Engineering, Red Teaming, and Vulnerability Research Framework
 > 
 > > 🍅 **[Tomato](https://github.com/user1342/Tomato)** - LLM steganography with minimum-entropy coupling
 > 
