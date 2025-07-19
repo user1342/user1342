@@ -1,6 +1,8 @@
 > 🤖 **[Machine Learning Cyber Security](https://github.com/user1342/Awesome-LLM-Red-Teaming)** | 
 > Checkout some of my tools for assesing the secuirty and structure of machine learning models.
 > > 🏰 **[Folly](https://github.com/user1342/Folly)** - Open-source LLM Prompt-Injection and Jailbreaking Playground.
+>
+> 🔍 **[LLM-itM](https://github.com/user1342/LLM-itM)** - A machine-in-the-middle tool for proxying, inspecting, and modifying traffic sent to and from an OpenAI-compliant endpoint.
 > 
 > >⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectiveness of an LLMs ability to hide and secure secrets.
 > 
