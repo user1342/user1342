@@ -4,12 +4,6 @@
 >
 > > 🔍 **[LLM-itM](https://github.com/user1342/LLM-itM)** - A machine-in-the-middle tool for proxying, inspecting, and modifying LLM traffic.
 > 
-> >⚔️ **[Would You Kindly](https://github.com/user1342/Would-You-Kindly)** - Testing the effectiveness of an LLMs ability to hide and secure secrets.
-> 
-> > 🫂 **[conjecture](https://github.com/user1342/conjecture)** - Evaluating the likelihood of data points existing in original LLM training sets
-> 
-> > 🖥️ **[Oversight](https://github.com/user1342/Oversight)** - Modular LLM Reverse Engineering, Red Teaming, and Vulnerability Research Framework
-> 
 > > 🍅 **[Tomato](https://github.com/user1342/Tomato)** - LLM steganography with minimum-entropy coupling
 > 
 >> 🎲 **[WargamesAI](https://github.com/user1342/WargamesAI)** - Professional Wargaming LLM Toolbox
